@@ -1,0 +1,67 @@
+
+body{
+	background-color: #373E98;
+}
+.title{
+	color: #ffffff;
+	font-family: impact;
+}
+.menu-voice{
+	color: #ffffff;
+	font-size: 20px;
+	text-align: center;
+	font-family: Impact;
+}
+.menu{
+	position:sticky;
+	top:0px;
+	background-color: #373E98;
+}
+hr{
+	border: 2px solid #fee36e;
+}
+.standard-text{
+	color: #ffffff;
+	font-family: vedana;
+	font-size: 18px;
+	
+	
+}
+.pingu-img{
+	position:relative;
+	left: 850px;
+	height: 370px;
+	width: 368px;
+
+}
+.elenco-dif{
+	position: relative;
+	top: -350px;
+}
+.selected-voice{
+	color: fee36e;
+	font-family: verdana;
+	font-size: 20px;
+}
+.subtitle{
+	color: #f16775;
+}
+li{
+	color: #F16775;
+}
+.cont-img-text{
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-template-rows: auto;
+}
+.tanenbaum-img{
+	width: 250px;
+	height: 250px;
+}
+.pingu-logo{
+	width: 268px;
+	height: 270px;
+	position: relative;
+	left: 1010px;
+	bottom:110px;
+}
